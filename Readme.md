@@ -14,11 +14,12 @@ Bullets are buggy.
 
 ### Controls
 
-Press "R" in-game to reset your high-score.
-Press "C" in-game to close the program. (Ctrl/Cmd + C works too!)
+Press "R" in-game to reset your high-score. \
+Press "C" in-game to close the program. (Ctrl/Cmd + C works too!) \
 Arrow keys are used to move. Hold the spacebar to shoot.
 
 ### Preview
+
 
 ![Firing.png](https://github.com/MaxDahan/Spaceship/blob/master/sample-images/Firing.PNG)
 ![Fail.png](https://github.com/MaxDahan/Spaceship/blob/master/sample-images/Fail.PNG)
