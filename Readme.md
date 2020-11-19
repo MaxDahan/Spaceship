@@ -1,4 +1,4 @@
-Hello! This project (Spaceship) was developed by Maxime Dahan in 2018 with Paul Karmel's assistance.
+This project (Spaceship) was developed by Maxime Dahan in 2018 with Paul Karmel's assistance.
 This is a Java project developed in an attempt to learn more about the graphics implementations in Java.
 The program was written in the first year of our software programming career, and we were ignorant toward the importance of writing clean code.
 
@@ -13,3 +13,6 @@ Press "C" in-game to close the program.
 Arrow keys are used to move. Hold the spacebar to shoot.
 
 Bullets are buggy.
+
+![Firing.png](https://github.com/MaxDahan/Spaceship/blob/master/sample-images/Firing.PNG)
+![Fail.png](https://github.com/MaxDahan/Spaceship/blob/master/sample-images/Fail.PNG)
