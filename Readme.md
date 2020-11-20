@@ -1,6 +1,6 @@
 # Spaceship
 
-This project (Spaceship) was developed by Maxime Dahan in 2018 with Paul Karmel's assistance. \
+This project (Spaceship) was developed by Maxime Dahan in 2018 with some assistance from Paul Karmel. \
 This is a Java project developed in an attempt to learn more about the graphics implementations in Java. \
 The program was written in the first year of our software programming career, and we were ignorant toward the importance of writing clean code.
 
